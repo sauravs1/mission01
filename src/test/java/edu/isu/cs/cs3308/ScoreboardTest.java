@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author fate
+ * @author Saurav Shah
  */
 public class ScoreboardTest {
 

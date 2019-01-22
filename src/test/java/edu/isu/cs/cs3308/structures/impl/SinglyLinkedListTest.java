@@ -19,7 +19,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Isaac Griffith
+ * @author Saurav Shah
  */
 public class SinglyLinkedListTest {
 

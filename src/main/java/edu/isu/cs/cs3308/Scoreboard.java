@@ -7,7 +7,7 @@ import edu.isu.cs.cs3308.structures.impl.SinglyLinkedList;
  * A class used to represent a scoreboard for a game which is constrained to
  * only contain a specific maximum number of entries.
  *
- * @author Isaac Griffith
+ * @author Saurav Shah
  */
 public class Scoreboard {
 

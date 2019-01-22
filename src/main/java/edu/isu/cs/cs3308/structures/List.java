@@ -2,7 +2,7 @@ package edu.isu.cs.cs3308.structures;
 
 /**
  *
- * @author Isaac Griffith
+ * @author Saurav Shah
  * @param <E> Element Type
  */
 public interface List<E> {

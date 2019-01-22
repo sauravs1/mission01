@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 /**
  * A score entry for the scoreboard.
  *
- * @author Isaac Griffith
+ * @author Saurav Shah
  */
 public class GameEntry {
 

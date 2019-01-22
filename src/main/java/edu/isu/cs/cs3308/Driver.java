@@ -3,7 +3,7 @@ package edu.isu.cs.cs3308;
 /**
  * Driver class for the Scoreboard InLab
  *
- * @author Isaac Griffith
+ * @author Saurav Shah
  */
 public class Driver {
 
